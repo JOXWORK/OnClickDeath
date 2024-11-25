@@ -1,0 +1,5 @@
+python3 3.12.4
+18.11.2024
+version 1.0
+dev JOX
+powered by JOXWORK
